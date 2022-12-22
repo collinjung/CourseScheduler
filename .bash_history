@@ -1,0 +1,10 @@
+python main.py add
+python main.py add
+python main.py delete
+python main.py delete
+python main.py delete
+python main.py delete
+python main.py search
+python main.py search
+python main.py search
+python main.py search
