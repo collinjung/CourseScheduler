@@ -1,4 +1,4 @@
-# Project Title: Virtual Course/Event Scheduler
+# Project Title: Course Scheduler
 This project is an online course and event scheduler that supports functionality for authentication, searching a csv of Stanford courses, adding and removing events, and visualizing the current schedule.
 
 ## Instructions
